@@ -1,5 +1,4 @@
 # PRASAD'S - E-commerce Website
-![image](https://github.com/user-attachments/assets/8d237fd6-d053-466e-b7b6-3d9cd0581247)
 
 
 Welcome to **PRASAD'S**, a responsive and visually engaging e-commerce website built using HTML, CSS, and JavaScript. This project is designed as a modern online shopping experience for users to browse, shop, and interact with stylish fashion products.
