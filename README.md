@@ -2,18 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/f0ed53ad-6b02-4ee5-ba9a-c32758084fc4)
 
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Technical Details](#technical-details)
-- [Known Issues](#known-issues)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 PRASAD'S is a modern e-commerce platform specializing in fashion apparel including traditional kurtas, contemporary dresses, and anime-themed clothing. This project serves as a frontend implementation with HTML and CSS.
 
