@@ -1,6 +1,7 @@
 # PRASAD'S Fashion E-Commerce Platform
 
-![PRASAD'S Logo Preview](logo1.jpg)
+![image](https://github.com/user-attachments/assets/f0ed53ad-6b02-4ee5-ba9a-c32758084fc4)
+
 
 ## Table of Contents
 - [Project Overview](#project-overview)
