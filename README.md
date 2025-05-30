@@ -21,19 +21,11 @@ A live demo can be run locally by opening the `PRASAD'S.html` file in your web b
 
 - **HTML5** – For the webpage structure
 - **CSS3** – For visual design and layout
+- **JAVASCRIPT**-Adds interactivity such as:
+  .Toggling mobile navigation (menu-toggle, dropdown, etc.)
+  .Handling UI events like cart clicks
+  .Enhancing user experience with dynamic behavior
 - **Font Awesome** – For icons (via CDN)
 - **Local Images** – Used for product and branding visuals
 
-- ## 🖥️ How to Run
 
-1. Clone or download this repository:
-
-   ```bash
-   git clone https://github.com/darkseid208/prasads-ecommerce.git
-   cd prasads-ecommerce
-
-   Open the project with any modern browser:
-
-2. Find and open PRASAD'S.html
-
-OR run a simple live server if you have one (e.g., VSCode Live Server)
