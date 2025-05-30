@@ -21,10 +21,7 @@ A live demo can be run locally by opening the `PRASAD'S.html` file in your web b
 
 - **HTML5** – For the webpage structure
 - **CSS3** – For visual design and layout
-- **JAVASCRIPT**-Adds interactivity such as:
-  .Toggling mobile navigation (menu-toggle, dropdown, etc.)
-  .Handling UI events like cart clicks
-  .Enhancing user experience with dynamic behavior
+- **JAVASCRIPT**-Adds interactivity such as:Toggling mobile navigation (menu-toggle, dropdown, etc.),Handling UI events like cart clicks and Enhancing user experience with dynamic behavior
 - **Font Awesome** – For icons (via CDN)
 - **Local Images** – Used for product and branding visuals
 
