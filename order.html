@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Place Order</title>
+  <link rel="stylesheet" href="order.css" />
+</head>
+<body>
+  <div class="order-container">
+    <h1>Place Your Order</h1>
+
+    <form id="orderForm">
+      <h2>Your Details</h2>
+
+      <label for="fullname">Full Name:</label>
+      <input type="text" id="fullname" name="fullname" required>
+
+      <label for="address">Address:</label>
+      <textarea id="address" name="address" rows="3" required></textarea>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required>
+
+      <label for="phone">Phone Number:</label>
+      <input type="tel" id="phone" name="phone" required>
+
+      <label for="payment">Payment Method:</label>
+      <select id="payment" name="payment" required>
+        <option value="">-- Select --</option>
+        <option value="cod">Cash on Delivery</option>
+        <option value="card">Credit Card</option>
+        <option value="debit">Debit Card</option>
+        <option value="upi">UPI</option>
+      </select>
+
+      <button type="submit">Place Order</button>
+    </form>
+
+    <div id="confirmation" class="confirmation message"></div>
+  </div>
+
+  <script>
+    const form = document.getElementById('orderForm');
+    const confirmation = document.getElementById('confirmation');
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      confirmation.textContent = "✅ Your order has been placed successfully!";
+      confirmation.style.display = "block";
+      form.reset();
+      localStorage.removeItem('selectedProducts');
+    });
+  </script>
+</body>
+</html>
