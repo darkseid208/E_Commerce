@@ -29,7 +29,7 @@ A live demo can be run locally by opening the `PRASAD'S.html` file in your web b
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/prasads-ecommerce.git
+   git clone https://github.com/darkseid208/prasads-ecommerce.git
    cd prasads-ecommerce
 
    Open the project with any modern browser:
